@@ -1,4 +1,4 @@
-# vue-comic
+# vue-comic  基于rem移动端适配方案组件复用的漫画网站前端界面实现的练手项目。--未完成项目
 
 ## Project setup
 ```
